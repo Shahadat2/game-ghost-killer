@@ -1,1 +1,1 @@
-# gm-ghost-killer
+# game-ghost-killer
